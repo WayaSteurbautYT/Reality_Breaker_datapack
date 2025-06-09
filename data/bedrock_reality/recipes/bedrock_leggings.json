@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "N N",
+    "B B"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bedrock" },
+    "N": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": {
+    "item": "minecraft:netherite_leggings",
+    "count": 1,
+    "nbt": "{CustomModelData:12, bedrock_reality:{custom_item:\"bedrock_leggings\"}, Unbreakable:1b, Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:swift_sneak\",lvl:3s}], AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;-12150,20300,-177646,57004],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:1,Operation:0,UUID:[I;-12150,20301,-177647,57005],Slot:\"legs\"}], display:{\"Name\":\"{\\\"text\\\":\\\"Bedrock Leggings\\\",\\\"bold\\\":true,\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"Forged from the unbreakable.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\",\"{\\\"text\\\":\\\"Offers unparalleled protection.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\"]}}"
+  }
+}

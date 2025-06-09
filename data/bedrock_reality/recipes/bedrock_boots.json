@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N N",
+    "B B"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bedrock" },
+    "N": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots",
+    "count": 1,
+    "nbt": "{CustomModelData:13, bedrock_reality:{custom_item:\"bedrock_boots\"}, Unbreakable:1b, Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:feather_falling\",lvl:4s},{id:\"minecraft:depth_strider\",lvl:3s}], AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;-12150,20400,-177648,57006],Slot:\"feet\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:1,Operation:0,UUID:[I;-12150,20401,-177649,57007],Slot:\"feet\"}], display:{\"Name\":\"{\\\"text\\\":\\\"Bedrock Boots\\\",\\\"bold\\\":true,\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"Forged from the unbreakable.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\",\"{\\\"text\\\":\\\"Offers unparalleled protection.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\"]}}"
+  }
+}

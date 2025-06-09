@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RDR",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:nether_star",
+      "nbt": "{bedrock_reality:{custom_item:\"reality_core\"}}"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "S": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_pickaxe",
+    "count": 1,
+    "nbt": "{CustomModelData:2, bedrock_reality:{custom_item:\"reality_breaker_pickaxe\"}, Unbreakable:1b, Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:3s}], display:{\"Name\":\"{\\\"text\\\":\\\"Reality Breaker\\\",\\\"bold\\\":true,\\\"italic\\\":false,\\\"color\\\":\\\"dark_purple\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"Tears through the fabric of what is.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"light_purple\\\"}\",\"{\\\"text\\\":\\\"Strong enough to challenge bedrock.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"red\\\"}\"]}}"
+  }
+}

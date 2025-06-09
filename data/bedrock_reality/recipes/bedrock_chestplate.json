@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N N",
+    "BNB",
+    "BNB"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bedrock" },
+    "N": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": {
+    "item": "minecraft:netherite_chestplate",
+    "count": 1,
+    "nbt": "{CustomModelData:11, bedrock_reality:{custom_item:\"bedrock_chestplate\"}, Unbreakable:1b, Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:thorns\",lvl:3s}], AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:2,Operation:0,UUID:[I;-12150,20200,-177644,57002],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:1,Operation:0,UUID:[I;-12150,20201,-177645,57003],Slot:\"chest\"}], display:{\"Name\":\"{\\\"text\\\":\\\"Bedrock Chestplate\\\",\\\"bold\\\":true,\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"Forged from the unbreakable.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\",\"{\\\"text\\\":\\\"Offers unparalleled protection.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"dark_gray\\\"}\"]}}"
+  }
+}

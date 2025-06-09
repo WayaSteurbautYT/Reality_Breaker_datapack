@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCD",
+    "CNC",
+    "DCD"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:amethyst_shard",
+      "nbt": "{bedrock_reality:{custom_item:\"cloud_fragment\"}}"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1,
+    "nbt": "{bedrock_reality:{custom_item:\"reality_core\"},display:{\"Name\":\"{\\\"text\\\":\\\"Reality Core\\\",\\\"italic\\\":true,\\\"color\\\":\\\"yellow\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"The condensed essence of altered reality.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"gold\\\"}\"]}}"
+  }
+}
